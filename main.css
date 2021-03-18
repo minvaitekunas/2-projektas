@@ -1,0 +1,14 @@
+<header {
+    display: inline-block; 
+    width: 800px;
+    margin-left: calc((100%-800px) / 2); 
+    margin-right: calc((100%-800px) / 2); 
+    background-color: aqua;"
+}
+main {
+display: inline-block; 
+    width: 800px;
+    margin-left: calc((100%-300px) / 2); 
+    margin-right: calc((100%-300px) / 2); 
+    background-color: aqua;"
+}
